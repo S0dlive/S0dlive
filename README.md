@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Baptiste</h1>
-<h3 align="center">I develop websites, cross platform applications and games with C# which is my favorite language to develop</h3>
+<h3 align="left">I'm Baptiste, and I've been a french self-taught C# developer for almost 4 years. I started programming 5 years ago with the lua language for the design of gmod addon. Then I directly followed the path of C# for the accessibility that the language offers.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s0dlive&label=Profile%20views&color=0e75b6&style=flat" alt="s0dlive" /> </p>
+<h2 align="left">My skills 🐱‍👤</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s0dlive" alt="s0dlive" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/https://discord.gg/uqERUF6Xe5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uqERUF6Xe5" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s0dlive&show_icons=true&locale=en&layout=compact" alt="s0dlive" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s0dlive&show_icons=true&locale=en" alt="s0dlive" /></p>
+| Langage / Framework   | Skills | 
+| -------- | ---------- | 
+| In C#     | I know how to create cross platform applications with the help of MaUi & Xamarin , to make the back code interact with the front code I use Blazor Wasm with a webview . I also know how to do Xaml. But I'm mainly a back developer C#     | 
+| In Asp.Net Core | I develop websites with Blazor Server, I know how to make APIs, websites with MVC architecture, I learn multi service and microservices architecture.      | 
+| In deployment |I know how to deploy asp.net core applications (api, web application . . .) with Azur server, I am training to know how a virtual machine works, cloud. . . |
+| In MongoDb & Sql |I know how to create MongoDb databases and manipulate them, and I learn the use of sql|
+| In Docker |I know how to create simple docker images and "deploy" them, I'm new to the world of docker lol|
